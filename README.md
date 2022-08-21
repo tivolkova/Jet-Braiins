@@ -1,2 +1,2 @@
-# Jet-Braiins
+# Jet-Brains-tictactoe
 Projects for JetBrains
